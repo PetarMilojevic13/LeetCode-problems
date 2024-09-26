@@ -1,2 +1,2 @@
 # LeetCode-problems
-Multiple LeetCode problems solver in Python.
+Multiple LeetCode problems solved in Python.
